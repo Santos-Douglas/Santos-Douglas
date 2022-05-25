@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Douglas, bem vindo ao meu perfil!
 
 - 🔭 Estou em transição de carreira para atuar na área de Tecnologia.
-- 🎓 Certificate of Completion ( Intercambio de 1 ano em Brisbane - Australia)
+- 🎓 Certificate of Completion ( Intercambio de 12 meses em Brisbane - Australia)
 - 🌱 Atualmente cursando Desenvolvedor Web Full Stack Jr. | Generation 
 - 📧 Contate-me no e-mail douglasmc92@hotmail.com
 
