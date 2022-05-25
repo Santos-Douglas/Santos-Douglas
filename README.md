@@ -3,7 +3,7 @@
 - 🔭 Estou em transição de carreira para atuar na área de Tecnologia.
 - 🎓 Certificate of Completion ( Intercambio de 1 ano em Brisbane - Australia)
 - 🌱 Atualmente cursando Desenvolvedor Web Full Stack Jr. | Generation 
-- 📧 Conta-me no e-mail douglasmc92@hotmail.com
+- 📧 Contate-me no e-mail douglasmc92@hotmail.com
 
 <div align="center">
   <a href="https://github.com/Santos-Douglas">
