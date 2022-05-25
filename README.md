@@ -17,6 +17,7 @@
 <img align="justify" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="justify" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="justify" alt="Luis-bootstrap" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg>
+<img align="justify" alt="Luis-sql" height="50" width="50" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg>
 <img align="justify"alt="Luis-spring" height="40" width="55" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg>
 </div>
   
