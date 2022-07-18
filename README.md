@@ -2,7 +2,7 @@
 
 - 🔭 Estou em transição de carreira para atuar na área de Tecnologia.
 - 🎓 Certificate of Completion ( Intercambio de 12 meses em Brisbane - Australia)
-- 🌱 Atualmente cursando Desenvolvedor Web Full Stack Jr. | Generation 
+- 🌱 Atualmente em Jun/2022 finalizei o BootCamp de Desenvolvedor Web Full Stack Jr. | Generation 
 - 📧 Contate-me no e-mail douglasmc92@hotmail.com
 
 <div align="center">
